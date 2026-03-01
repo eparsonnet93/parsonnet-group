@@ -1,0 +1,17 @@
+# Media
+images/background.mp4
+
+# Environment
+.env
+.env.*
+env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
